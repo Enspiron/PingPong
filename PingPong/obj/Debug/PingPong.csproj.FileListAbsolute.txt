@@ -1,0 +1,17 @@
+D:\Programs\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+D:\Programs\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+D:\Programs\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+D:\Programs\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+D:\Programs\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+D:\Programs\PingPong\PingPong\bin\Debug\PingPong.exe.config
+D:\Programs\PingPong\PingPong\bin\Debug\PingPong.exe
+D:\Programs\PingPong\PingPong\bin\Debug\PingPong.pdb
+D:\Programs\PingPong\PingPong\obj\Debug\PingPong.exe
+D:\Programs\PingPong\PingPong\obj\Debug\PingPong.pdb
+D:\Programs\PingPong\PingPong\obj\Debug\PingPong.option.resources
+D:\Programs\PingPong\PingPong\bin\Debug\MaterialSkin.dll
+D:\Programs\PingPong\PingPong\obj\Debug\PingPong.csproj.CopyComplete
+D:\Programs\PingPong\PingPong\bin\Debug\PingPong.exe.manifest
+D:\Programs\PingPong\PingPong\bin\Debug\PingPong.application
+D:\Programs\PingPong\PingPong\obj\Debug\PingPong.exe.manifest
+D:\Programs\PingPong\PingPong\obj\Debug\PingPong.application
